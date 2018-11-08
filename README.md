@@ -1,2 +1,2 @@
-# GridChallenge3
-I am working on Grid Challenges
+# GridsChallenge3
+Working on Grid challenge 3
